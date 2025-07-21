@@ -1,10 +1,15 @@
-<!-- Intro Header -->
-<h1 align="center">Hi, I'm <span style="color:#f7768e">Sanjana Pandey</span></h1>
-<h3 align="center">Full Stack Developer | Android Engineer | AI/ML Enthusiast | GSSoC'24 Contributor</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjana+Pandey!;Full+Stack+Web+Developer+%7C+Android+Engineer;AI%2FML+Enthusiast+%7C+Open+Source+Contributor;GSSoC'24+%7C+Competitive+Programmer" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📫 Connect With Me
+<h3 align="center">💻 Full Stack Developer | Android Engineer | AI/ML Enthusiast | GSSoC'24</h3>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjanapandeyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,36 +19,36 @@
 
 ---
 
-### 💼 About Me
+### 🧑‍💼 About Me
 
 - 🎓 Final-year B.Tech CSE (AI & ML) student at GGSIPU, Delhi  
-- 👩‍💻 GSSoC Contributor actively involved in open source  
+- 💡 GSSoC Contributor | Passionate about Open Source  
 - 🧠 Deep interest in Machine Learning, Neural Networks, GANs  
-- 🌐 Full Stack Web Developer (MERN, Tailwind, Bootstrap)  
-- 📱 Android App Developer (Java, React Native)  
-- 🔍 Competitive programmer (Top 5% in LeetCode, Rank 1 at Coding Ninjas)
+- 🌐 Full Stack Developer using MERN, Tailwind, Bootstrap  
+- 📱 Android Developer (Java & React Native)  
+- 💪 Competitive Programmer (Top 5% LeetCode, Rank 1 Coding Ninjas)
 
 ---
 
-### 🧠 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,tailwind,bootstrap,nodejs,express,mysql,postgresql,firebase,jupyter,androidstudio,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,tailwind,bootstrap,nodejs,express,mysql,postgresql,jupyter,androidstudio,git,github,vscode,postman" />
 </p>
 
 ---
 
 ### 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| [**🧠 Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | Generated synthetic data using GANs for diabetes diagnosis. Achieved 97% accuracy using GNNs and ensemble ML. |
-| [**🍦 Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Responsive frontend using HTML, CSS, Vanilla JS. Clean animations with modern UX principles. |
-| [**✈️ Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | C++/DSA-based pathfinding tool using Dijkstra & Bellman-Ford algorithms. UI + logic combined in a modular setup. |
+| 🧠 Project | 🔍 Description |
+|-----------|----------------|
+| [**Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | GAN-based data synthesis with GNNs achieving 97% accuracy. |
+| [**Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Responsive frontend built using Tailwind, HTML, and JS. |
+| [**Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | Dijkstra/Bellman-Ford based C++ project for graph optimization. |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjanaapandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -52,7 +57,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanaapandey&theme=react-dark&hide_border=true&area=true" />
@@ -60,18 +65,14 @@
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏅 Highlights
 
-- 🥇 **Rank 1** on Coding Ninjas Campus Leaderboard  
-- 🔥 **Top 5%** in LeetCode Contest  
-- 💻 Published research paper on GAN-based medical AI  
-- 📜 Cisco Cybersecurity | Goldman Sachs & Deloitte Virtual Internships  
-- 🎓 NLP + IR Optimizations at IIT Delhi Hackathon
+- 🏆 Rank 1 — Coding Ninjas Leaderboard  
+- 💥 Top 5% — LeetCode Global Contest  
+- 📜 Research Paper — GAN-based Medical AI (97% accuracy)  
+- 🎓 Certified by Cisco, Goldman Sachs, Deloitte  
+- 🧠 NLP & GNN Optimizations — IIT Delhi Hackathon
 
 ---
 
-### 🛠 Tools I Use Often
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux,postman" />
-</p>
+<p align="center"><i>“Code with purpose. Build with passion.”</i></p>
