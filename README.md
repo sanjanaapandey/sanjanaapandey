@@ -3,9 +3,9 @@
   <img src="https://i.pinimg.com/originals/b1/b8/af/b1b8af2c00c8d0550c60e21306f6bb1b.gif" width="100%" alt="Soft pastel animated background" />
 </p>
 
-<!-- 👩‍💻 Coder at Desk Animation (Latisha style) -->
+<!-- 👩‍💻 Coder Girl GIF -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80%" alt="Coder desk animation" />
+  <img src="https://i.pinimg.com/originals/66/4e/e7/664ee708ba0a9c9b7ef82c62a53f89f2.gif" width="80%" alt="Lofi coder girl working" />
 </p>
 
 <!-- ✨ Animated Typing Intro -->
@@ -42,7 +42,7 @@
 - 💻 Passionate about Full Stack Web Dev (MERN + Tailwind)  
 - 🧠 Learning GANs, ML tools with Python & Jupyter  
 - 📚 Practicing DSA (LeetCode Top 5%, CN Rank 1)  
-- 🎨 Clean UIs + Functional Code = My happy place  
+- 🌸 Mixing logic + design to build elegant apps  
 
 ---
 
@@ -75,12 +75,12 @@
 
 ### 🏆 Highlights
 
-- 🧠 Finalist – IIT Delhi Hackathon (ML/NLP)
+- 🧠 Finalist – IIT Delhi Hackathon (ML/NLP)  
 - 🥇 Rank 1 – Coding Ninjas Leaderboard  
 - 💥 Top 5% – LeetCode Contests  
-- 🔬 Researching GANs for medical use cases  
+- 🔬 Researching GANs in healthcare  
 - 💖 Forever learning, forever building  
 
 ---
 
-<p align="center"><i>“Code beautifully. Debug gently. Ship proudly.”</i></p>
+<p align="center"><i>“Code beautifully. Debug gently. Ship proudly.”</i> 🌸</p>
