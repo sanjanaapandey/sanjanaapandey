@@ -1,14 +1,14 @@
-<!-- 🌸 Soft Animated Background Banner (Simulated Background) -->
+<!-- 🌸 Soft Animated Background Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/b1/b8/af/b1b8af2c00c8d0550c60e21306f6bb1b.gif" width="100%" alt="Soft pastel animated background" />
 </p>
 
-<!-- 👩‍💻 Coder Girl GIF -->
+<!-- 👩‍💻 Verified Coder Girl GIF (Works on GitHub) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/66/4e/e7/664ee708ba0a9c9b7ef82c62a53f89f2.gif" width="80%" alt="Lofi coder girl working" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80%" alt="Coder girl aesthetic gif" />
 </p>
 
-<!-- ✨ Animated Typing Intro -->
+<!-- ✨ Animated Typing Lines -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjana+Pandey.;Full+Stack+Web+Developer.;Open+Source+Contributor+%7C+GSSoC'24.;AI%2FML+Explorer+%7C+DSA+Enthusiast." alt="Typing animation" />
 </p>
