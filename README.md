@@ -1,17 +1,19 @@
-<!-- 🌸 Soft Animated Background Banner -->
+<!-- 🌸 Pastel Coder Girl Banner (Working Image) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b1/b8/af/b1b8af2c00c8d0550c60e21306f6bb1b.gif" width="100%" alt="Soft pastel animated background" />
+  <img src="https://raw.githubusercontent.com/latisha-29/latisha-29/main/coder-girl-banner.png" width="100%" alt="Coder girl pastel header" />
 </p>
 
-<!-- 👩‍💻 Verified Coder Girl GIF (Works on GitHub) -->
+<!-- ✨ Animated Typing Intro -->
+<!-- 🖼️ Coder Girl Aesthetic Image (above typing animation) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80%" alt="Coder girl aesthetic gif" />
+  <img src="https://i.pinimg.com/736x/d4/e7/80/d4e7802bbea665a933e4c8bde436bf6b.jpg" width="80%" alt="Soft coder girl aesthetic" />
 </p>
 
-<!-- ✨ Animated Typing Lines -->
+<!-- ✨ Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjana+Pandey.;Full+Stack+Web+Developer.;Open+Source+Contributor+%7C+GSSoC'24.;AI%2FML+Explorer+%7C+DSA+Enthusiast." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F779A1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjana+Pandey.;Full+Stack+Web+Developer.;Open+Source+Contributor+%7C+GSSoC'24.;AI%2FML+Explorer+%7C+DSA+Enthusiast." alt="Typing animation" />
 </p>
+
 
 ---
 
