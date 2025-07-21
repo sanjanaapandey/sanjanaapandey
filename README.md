@@ -4,14 +4,9 @@
 </p>
 
 <!-- ✨ Animated Typing Intro -->
-<!-- 🖼️ Coder Girl Aesthetic Image (above typing animation) -->
-
-
-<!-- ✨ Animated Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F779A1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjana+Pandey.;Full+Stack+Web+Developer.;Open+Source+Contributor+%7C+GSSoC'24.;AI%2FML+Explorer+%7C+DSA+Enthusiast." alt="Typing animation" />
 </p>
-
 
 ---
 
