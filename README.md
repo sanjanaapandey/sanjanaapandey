@@ -1,11 +1,11 @@
-<!-- Contribution Grid Background -->
+<!-- Contribution Graph Style Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212418935-c4fb7f84-85fb-47e4-8376-8093066fa2de.gif" width="100%" />
+  <img src="https://i.imgur.com/5xUeKAZ.png" width="100%" />
 </p>
 
-<!-- Banner GIF -->
+<!-- Header Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50%" />
+  <img src="https://i.pinimg.com/originals/7f/69/b2/7f69b28d69ff01e8e67c51b0d3b91877.gif" width="60%" />
 </p>
 
 ---
@@ -15,24 +15,29 @@
 
 ---
 
-### 🌐 Connect With Me
+### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanjanapandeyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sanjanapandey5683@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sanjanaapandey"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sanjanapandeyy" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sanjanapandey5683@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sanjanaapandey">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 👩‍🎓 About Me
+### 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech CSE (AI & ML), GGSIPU, Delhi  
-- 🌸 GSSoC Contributor | Passionate about Open Source  
-- 🤖 Exploring ML with Python, Jupyter & GNNs  
-- 🌐 Full Stack Developer using MERN, Tailwind & Bootstrap  
-- 💻 Love turning ideas into clean, interactive web apps  
-- ⚡ Enjoy competitive coding (Top 5% LeetCode, Rank 1 at CN)
+- 🎓 B.Tech CSE (AI & ML) student at GGSIPU, Delhi  
+- 💡 GSSoC’24 Contributor | Open source explorer  
+- 🤖 Learning ML with Python, Jupyter & GNNs  
+- 🌐 Web developer building full-stack projects (MERN, Tailwind)  
+- ⚡ Coding with curiosity — and clarity  
 
 ---
 
@@ -44,17 +49,17 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌸 Featured Projects
 
-| ✨ Project | 📌 Description |
-|-----------|----------------|
-| [**Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | Created synthetic data for diabetic datasets using GANs. Boosted ML model accuracy to 97%. |
-| [**Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Fully responsive website using HTML, CSS, and JS — designed for visual delight! |
-| [**Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | Pathfinding algorithm built in C++ using Dijkstra & Bellman-Ford. Structured with modular logic. |
+| Project | Description |
+|--------|-------------|
+| [**Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | GAN-based synthetic data for health ML — 97% accuracy. |
+| [**Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Responsive e-commerce UI built in HTML, CSS, JS. |
+| [**Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | Pathfinding algorithms in C++ with a clean UI. |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjanaapandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -73,12 +78,11 @@
 
 ### 🏅 Highlights
 
-- 🥇 Rank 1 at Coding Ninjas Campus Leaderboard  
-- 🌟 Top 5% in LeetCode global contests  
-- 📜 Published research on GAN-based healthcare AI  
-- 🧪 Finalist at IIT Delhi Hackathon — NLP Track  
-- 💖 Here to build, learn & grow ✨
+- 🥇 Rank 1 – Coding Ninjas Leaderboard  
+- 💥 Top 5% – LeetCode Contest  
+- 📜 Research: GAN-based AI for medical use  
+- 🧠 Finalist – IIT Delhi Hackathon (NLP/GNN)
 
 ---
 
-<p align="center"><i>“Empowered girls write powerful code.”</i> 👩‍💻🌸</p>
+<p align="center"><i>“Build boldly, design softly, debug gracefully.”</i> 🌸</p>
