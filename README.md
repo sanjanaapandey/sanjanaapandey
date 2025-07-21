@@ -1,11 +1,11 @@
-<!-- 💻 WORKING LOFI CODER GIRL BANNER -->
+<!-- 🌙 WORKING CODER GIRL BANNER (NO BROKEN IMAGE!) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fd/f2/10/fdf2103b80a907f841048bbfef0ac9fa.gif" width="85%" alt="Lofi coder banner" />
+  <img src="https://i.pinimg.com/originals/66/4e/e7/664ee708ba0a9c9b7ef82c62a53f89f2.gif" width="90%" alt="Lofi coder banner" />
 </p>
 
 <!-- ✨ Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F779A1&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+Sanjana+Pandey!;Full+Stack+Developer+%7C+GSSoC'24+Contributor;DSA+Lover+%7C+ML+Explorer+%7C+Coding+with+Style" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F779A1&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+Sanjana+Pandey!;Full+Stack+Developer+%7C+GSSoC'24+Contributor;DSA+Enthusiast+%7C+AI%2FML+Explorer+%7C+Open+Source+Lover" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,11 +27,11 @@
 ### 💖 About Me
 
 - 🎓 Final-year B.Tech CSE (AI & ML) student at GGSIPU, Delhi  
-- 💡 GSSoC'24 Contributor | Passionate about open source  
-- 💻 Building clean full stack apps using MERN, Tailwind, Bootstrap  
-- 🤖 Exploring ML with Python, GANs & Jupyter  
-- 📚 Practicing DSA (Top 5% on LeetCode, Rank 1 at Coding Ninjas)  
-- ✨ Crafting interfaces with heart & logic  
+- 🌟 GSSoC'24 Contributor | Actively building in open source  
+- 💻 Crafting full stack web apps (MERN, Tailwind, Bootstrap)  
+- 🧠 Exploring ML with GANs, Python & Jupyter  
+- 📚 Practicing DSA (Top 5% on LeetCode, Rank 1 Coding Ninjas)  
+- 🌸 Mixing logic with design to build clean & beautiful UIs  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | 💡 Project | 📌 Description |
 |-----------|----------------|
-| [**Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | GANs for synthetic health data generation — 97% accuracy. |
-| [**Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Responsive frontend using HTML, CSS, Vanilla JS — sweet & smooth UX. |
-| [**Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | Smart pathfinding with Dijkstra & Bellman-Ford in C++. UI + logic. |
+| [**Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | GANs for generating synthetic healthcare data (97% accuracy). |
+| [**Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Cute & responsive frontend using HTML, CSS, JS — great UX. |
+| [**Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | C++ pathfinding project (Dijkstra + Bellman-Ford) with modular logic. |
 
 ---
 
@@ -64,12 +64,12 @@
 
 ### 🏅 Highlights
 
-- 🧠 Finalist at IIT Delhi Hackathon (ML/NLP)  
+- 🧠 Finalist – IIT Delhi Hackathon (ML/NLP)  
 - 🥇 Rank 1 – Coding Ninjas Leaderboard  
-- 💥 Top 5% – LeetCode Contest  
-- 💼 Research in AI for healthcare  
-- 🌸 Writing code with care, creativity, and clean indentation
+- 💥 Top 5% – LeetCode Contests  
+- 🧪 Researching GANs in medical datasets  
+- 🌸 Always learning, always building (with 💖)
 
 ---
 
-<p align="center"><i>“Build soft. Code smart. Debug cute.”</i> 💫</p>
+<p align="center"><i>“Code beautifully. Debug gently. Ship proudly.”</i> ✨</p>
