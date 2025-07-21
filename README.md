@@ -1,32 +1,19 @@
-<!-- Contribution Graph Style Header -->
+<!-- Soft girl coder header (GIF) -->
 <p align="center">
-  <img src="https://i.imgur.com/5xUeKAZ.png" width="100%" />
+  <img src="https://github.com/sanjanaapandey/sanjanaapandey/assets/129628522/fcb393cf-77b3-4b60-8608-e0c1d59e8d1a" width="70%" />
 </p>
-
-<!-- Header Image -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7f/69/b2/7f69b28d69ff01e8e67c51b0d3b91877.gif" width="60%" />
-</p>
-
----
 
 <h2 align="center">Hey, I'm <span style="color:#f779a1;">Sanjana Pandey</span> ✨</h2>
 <h3 align="center">💻 Full Stack Web Developer | AI/ML Enthusiast | GSSoC'24 Contributor</h3>
 
 ---
 
-### 📬 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanjanapandeyy" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sanjanapandey5683@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sanjanaapandey">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/sanjanapandeyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sanjanapandey5683@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sanjanaapandey"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -35,13 +22,13 @@
 
 - 🎓 B.Tech CSE (AI & ML) student at GGSIPU, Delhi  
 - 💡 GSSoC’24 Contributor | Open source explorer  
-- 🤖 Learning ML with Python, Jupyter & GNNs  
+- 🤖 Exploring ML with Python, Jupyter & GNNs  
 - 🌐 Web developer building full-stack projects (MERN, Tailwind)  
-- ⚡ Coding with curiosity — and clarity  
+- 💭 Coding thoughtfully with design in mind
 
 ---
 
-### 🧠 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,tailwind,bootstrap,nodejs,express,mysql,postgres,jupyter,git,github,vscode,postman" />
@@ -49,7 +36,7 @@
 
 ---
 
-### 🌸 Featured Projects
+### ✨ Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -68,14 +55,6 @@
 
 ---
 
-### 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanaapandey&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🏅 Highlights
 
 - 🥇 Rank 1 – Coding Ninjas Leaderboard  
@@ -85,4 +64,4 @@
 
 ---
 
-<p align="center"><i>“Build boldly, design softly, debug gracefully.”</i> 🌸</p>
+<p align="center"><i>“Build boldly. Design softly. Debug gracefully.”</i> 🌸</p>
