@@ -3,9 +3,9 @@
   <img src="https://i.pinimg.com/originals/b1/b8/af/b1b8af2c00c8d0550c60e21306f6bb1b.gif" width="100%" alt="Soft pastel animated background" />
 </p>
 
-<!-- 🌙 WORKING CODER GIRL BANNER -->
+<!-- 👩‍💻 Coder at Desk Animation (Latisha style) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/66/4e/e7/664ee708ba0a9c9b7ef82c62a53f89f2.gif" width="90%" alt="Lofi coder girl banner" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80%" alt="Coder desk animation" />
 </p>
 
 <!-- ✨ Animated Typing Intro -->
