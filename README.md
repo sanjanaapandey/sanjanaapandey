@@ -1,7 +1,5 @@
 <!-- 🌸 Pastel Coder Girl Banner (Working Image) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/latisha-29/latisha-29/main/coder-girl-banner.png" width="100%" alt="Coder girl pastel header" />
-</p>
+
 
 <!-- 🖼️ Custom Soft Coder Girl Aesthetic Image -->
 <p align="center">
