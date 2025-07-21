@@ -5,9 +5,7 @@
 
 <!-- ✨ Animated Typing Intro -->
 <!-- 🖼️ Coder Girl Aesthetic Image (above typing animation) -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/d4/e7/80/d4e7802bbea665a933e4c8bde436bf6b.jpg" width="80%" alt="Soft coder girl aesthetic" />
-</p>
+
 
 <!-- ✨ Animated Typing Intro -->
 <p align="center">
