@@ -1,14 +1,20 @@
-<!-- Soft girl coder header (GIF) -->
+<!-- 🌙 Ambient Night Coding Banner -->
 <p align="center">
-  <img src="https://github.com/sanjanaapandey/sanjanaapandey/assets/129628522/fcb393cf-77b3-4b60-8608-e0c1d59e8d1a" width="70%" />
+  <img src="https://raw.githubusercontent.com/mishmanners/MishManners/main/gh-header-image-coding.png" width="90%" alt="Lofi coder banner" />
 </p>
 
-<h2 align="center">Hey, I'm <span style="color:#f779a1;">Sanjana Pandey</span> ✨</h2>
-<h3 align="center">💻 Full Stack Web Developer | AI/ML Enthusiast | GSSoC'24 Contributor</h3>
+<!-- ✨ Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F779A1&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sanjana+Pandey!;Full+Stack+Developer+%7C+GSSoC'24+Contributor;AI%2FML+Explorer+%7C+DSA+Lover+%7C+Code+%26+Create" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+<h3 align="center">💻 Full Stack Web Developer | GSSoC'24 Contributor | DSA |  AI/ML Enthusiast</h3>
+
+---
+
+### 📬 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjanapandeyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,35 +24,36 @@
 
 ---
 
-### 👩‍💻 About Me
+### 🌸 About Me
 
-- 🎓 B.Tech CSE (AI & ML) student at GGSIPU, Delhi  
-- 💡 GSSoC’24 Contributor | Open source explorer  
-- 🤖 Exploring ML with Python, Jupyter & GNNs  
-- 🌐 Web developer building full-stack projects (MERN, Tailwind)  
-- 💭 Coding thoughtfully with design in mind
+- 🎓 Pre Final-year B.Tech CSE (AI & ML) student
+- 💡 Contributor @ GSSoC  | Passionate about building & solving  
+- 💻 MERN Stack Web Dev — clean UI, structured backend  
+- ⚙️ ML Projects with Python, GANs, and Jupyter  
+- 📚 Practicing DSA (Top 5% LeetCode, Rank 1 Coding Ninjas)  
+- 🌈 Always learning, always shipping ✨  
 
 ---
 
-### 💻 Tech Stack
+### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,tailwind,bootstrap,nodejs,express,mysql,postgres,jupyter,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,nodejs,tailwind,bootstrap,express,mysql,postgres,jupyter,git,github,vscode,postman" />
 </p>
 
 ---
 
-### ✨ Featured Projects
+### 🌟 Projects
 
-| Project | Description |
-|--------|-------------|
-| [**Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | GAN-based synthetic data for health ML — 97% accuracy. |
-| [**Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Responsive e-commerce UI built in HTML, CSS, JS. |
-| [**Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | Pathfinding algorithms in C++ with a clean UI. |
+| 💡 Project | 📌 Description |
+|-----------|----------------|
+| [**Diabetes Prediction using GANs**](https://github.com/sanjanaapandey/DiabetesPrediction-Project-using-GANs) | Synthetic data generation using GANs for diabetes prediction (97% accuracy). |
+| [**Ice Cream Parlour Website**](https://github.com/sanjanaapandey/ice-cream-parlour-website) | Fully responsive frontend with HTML, CSS, JS — smooth UX. |
+| [**Optimal Route Planner**](https://github.com/sanjanaapandey/Optimal-Air-route-planner) | C++ project using Dijkstra & Bellman-Ford for smart pathfinding. |
 
 ---
 
-### 📊 GitHub Insights
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjanaapandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -55,13 +62,13 @@
 
 ---
 
-### 🏅 Highlights
+### 💖 Highlights
 
-- 🥇 Rank 1 – Coding Ninjas Leaderboard  
-- 💥 Top 5% – LeetCode Contest  
-- 📜 Research: GAN-based AI for medical use  
-- 🧠 Finalist – IIT Delhi Hackathon (NLP/GNN)
+- 🧠 Finalist at IIT Delhi Hackathon (ML/NLP)  
+- 🥇 Rank 1 – CN Leaderboard | 💥 Top 5% LeetCode  
+- 💼 AI research with GANs in healthcare  
+- 👩‍💻 Open source contributor with passion for clean code
 
 ---
 
-<p align="center"><i>“Build boldly. Design softly. Debug gracefully.”</i> 🌸</p>
+<p align="center"><i>“Crafting code that’s soft, strong, and always in style.”</i> 🌷</p>
