@@ -33,11 +33,11 @@
 
 ---
 
-### 💖 About Me
+###  About Me
 
-- 🎓 Final-year B.Tech CSE (AI & ML) @ GGSIPU, Delhi  
-- ✨ GSSoC'24 Contributor | Active in Open Source  
-- 💻 Passionate about Full Stack Web Dev (MERN + Tailwind)  
+ 
+- ✨ GSSoC Contributor  
+- 💻 Passionate about Full Stack Web Dev 
 - 🧠 Learning GANs, ML tools with Python & Jupyter  
 - 📚 Practicing DSA (LeetCode Top 5%, CN Rank 1)  
 - 🌸 Mixing logic + design to build elegant apps  
@@ -66,18 +66,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjanaapandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjanaapandey&theme=tokyonight&hide_border=true" width="48%" />
+
 </p>
 
 ---
 
-### 🏆 Highlights
+### 🏆Achievements 
 
-- 🧠 Finalist – IIT Delhi Hackathon (ML/NLP)  
+
 - 🥇 Rank 1 – Coding Ninjas Leaderboard  
 - 💥 Top 5% – LeetCode Contests  
 - 🔬 Researching GANs in healthcare  
-- 💖 Forever learning, forever building  
+
 
 ---
 
